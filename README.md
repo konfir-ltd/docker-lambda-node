@@ -3,5 +3,5 @@ lambda-node
 
 Docker image to use in CI for AWS lambda written in node
 
-- docker build -t konfir/lambda-node:20 --platform=linux/amd64 .
-- docker push  konfir/lambda-node:20
+- docker build -t konfir/lambda-node:24 --platform=linux/amd64 .
+- docker push  konfir/lambda-node:24
